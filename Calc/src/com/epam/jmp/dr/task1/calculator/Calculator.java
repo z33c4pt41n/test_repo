@@ -13,7 +13,7 @@ import com.epam.jmp.dr.task1.calculator.util.OperatorsContainer;
 
 /**
  * 
- * Calculator runner class TEST TEST
+ * Calculator runner class TEST TEST TEST
  *
  */
 public class Calculator {
